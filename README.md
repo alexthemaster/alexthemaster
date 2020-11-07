@@ -33,8 +33,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=alexthemaster&count_private=true&show_icons=true&theme=tokyonight" height="170px"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthemaster&theme=blue-black&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9" height="170px"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexTheMaster&layout=compact" height="170px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=alexthemaster&count_private=true&show_icons=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthemaster&theme=blue-black&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexTheMaster&layout=compact"></td>
   </tr>
 </table>
