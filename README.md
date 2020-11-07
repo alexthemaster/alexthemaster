@@ -7,9 +7,9 @@
 - I *really* suck at front end development (design in general too)
 
 ## Projects
-- [Pokole](https://github.com/penfoldium/pokole) - A WIP (but usable!) TypeScript URL shortener 
-- [Pokole Web](https://github.com/penfoldium/pokole-web) - A Web UI for the aforementioned URL shortener
-- [Moonlight](https://github.com/penfoldium/moonlight) - A bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library
+- [Pokole](https://github.com/alexthemaster/pokole) - A WIP (but usable!) TypeScript URL shortener 
+- [Pokole Web](https://github.com/alexthemaster/pokole-web) - A Web UI for the aforementioned URL shortener
+- [Moonlight](https://github.com/alexthemaster/moonlight) - A bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library
 - [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
 - [filelist.js](https://github.com/alexthemaster/filelist.js) - A JavaScript wrapper for the Romanian private torrent tracker FileList
 - and many more!
