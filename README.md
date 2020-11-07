@@ -1,5 +1,5 @@
 ## Fun facts about me
-- I'm from Romania 🇷🇴
+- I'm from Romania
 - I can speak three languages fluently (Romanian, Hungarian and English)
 - I'm currently studying to be a vet technician (basically an animal nurse)
 - I own a [music promo channel](https://layers.yt/rap)
