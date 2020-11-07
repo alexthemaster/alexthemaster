@@ -1,7 +1,7 @@
 ## Fun facts about me
 - I'm from Romania 🇷🇴
 - I can speak three languages fluently (Romanian 🇷🇴, Hungarian 🇭🇺 and English 🇬🇧)
-- I'm currently studying to be a vet technician (basically an animal nurse 🐕) although I don't enjoy it as much as I hoped I will
+- I'm currently studying to be a vet technician (basically an animal nurse 🐕)
 - I own a [🎵 music promo channel](https://layers.yt/rap)
 - I own a small and independent [💿 record label](https://layers.yt/records)
 - I *really* suck at front end development (design in general too)
