@@ -1,13 +1,13 @@
 ## Fun facts about me
 - I'm from Romania 🇷🇴
-- I can speak three languages fluently (Romanian 🇷🇴, Hungarian 🇭🇺 and English 🇬🇧)
-- I'm currently studying to be a vet technician (basically an animal nurse 🐕)
-- I own a [🎵 music promo channel](https://layers.yt/rap)
-- I own a small and independent [💿 record label](https://layers.yt/records)
+- I can speak three languages fluently (Romanian, Hungarian and English)
+- I'm currently studying to be a vet technician (basically an animal nurse)
+- I own a [music promo channel](https://layers.yt/rap)
+- I own a small and independent [record label](https://layers.yt/records)
 - I *really* suck at front end development (design in general too)
 
 ## Projects
-- [Pokole](https://github.com/penfoldium/pokole) - A WIP (but usable!) TypeScript 🔗 URL shortener 
+- [Pokole](https://github.com/penfoldium/pokole) - A WIP (but usable!) TypeScript URL shortener 
 - [Pokole Web](https://github.com/penfoldium/pokole-web) - A Web UI for the aforementioned URL shortener
 - [Moonlight](https://github.com/penfoldium/moonlight) - A bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library
 - [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
