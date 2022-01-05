@@ -1,18 +1,18 @@
 ## Fun facts about me
 - I'm from Romania
 - I can speak three languages fluently (Romanian, Hungarian and English)
-- I'm currently studying to be a vet technician (basically an animal nurse)
+- I am a qualified veterinary technician (also known as an animal nurse)
 - I own a [music promo channel](https://layers.yt/rap)
-- I own a small and independent [record label](https://layers.yt/records)
+- I used to manage a small and independent [record label](https://layers.yt/records)
 - I *really* suck at front end development (design in general too)
 
 ## Projects
-- [Pokole](https://github.com/alexthemaster/pokole) - A WIP (but usable!) TypeScript URL shortener 
-- [Pokole Web](https://github.com/alexthemaster/pokole-web) - A Web UI for the aforementioned URL shortener
-- [Moonlight](https://github.com/alexthemaster/moonlight) - A bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library (now archived)
+- [Pokole](https://github.com/alexthemaster/pokole) - A WIP (but usable!) URL shortener that uses TypeScript and PostgreSQL 
+- [Pokole Web](https://github.com/alexthemaster/pokole-web) - A Web UI made using Vue for the aforementioned URL shortener
+- [Moonlight](https://github.com/alexthemaster/moonlight) - A (now archived) bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library 
 - [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
+- [Lagalista](https://github.com/alexthemaster/lagalista) - A Node.js Spotify to Deezer playlist converter
 - [filelist.js](https://github.com/alexthemaster/filelist.js) - A JavaScript wrapper for the Romanian private torrent tracker FileList
-- and many more!
 
 
 ## Technologies I use
