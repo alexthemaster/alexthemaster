@@ -8,7 +8,7 @@
 
 ## Projects
 - [Daunroda](https://github.com/alexthemaster/daunroda) - A simple, efficient, no BS Spotify to YouTube Music Downloader
-- [Pokole](https://github.com/alexthemaster/pokole) - A WIP (but usable!) URL shortener that uses TypeScript and PostgreSQL 
+- [Pokole](https://github.com/alexthemaster/pokole) - A URL shortener that uses TypeScript and PostgreSQL 
 - [Pokole Web](https://github.com/alexthemaster/pokole-web) - A Web UI made using Vue for the aforementioned URL shortener
 - [Moonlight](https://github.com/alexthemaster/moonlight) - A (now archived) bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library 
 - [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
