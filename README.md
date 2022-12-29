@@ -14,6 +14,7 @@
 - [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
 - [Lagalista](https://github.com/alexthemaster/lagalista) - A Node.js Spotify to Deezer playlist converter
 - [filelist.js](https://github.com/alexthemaster/filelist.js) - A JavaScript wrapper for the Romanian private torrent tracker FileList
+- [Plex Hide Summary](https://github.com/alexthemaster/plex-hide-summary) - A simple script that hides the synopsis of unwatched movies and episodes on Plex 
 
 
 ## Technologies I use
