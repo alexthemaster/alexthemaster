@@ -1,40 +1,35 @@
-## Fun facts about me
-- I'm from Romania
-- I can speak three languages fluently (Romanian, Hungarian and English)
-- I am a qualified veterinary technician (also known as an animal nurse)
-- I own a [music promo channel](https://layers.yt/rap)
-- I used to manage a small and independent [record label](https://layers.yt/records)
-- I *really* suck at front end development (design in general too)
+## Hey there! 👋
 
-## Projects
-- [Daunroda](https://github.com/daunroda) - A simple, efficient, no BS Spotify to YouTube Music Downloader
-- [Pokole](https://github.com/alexthemaster/pokole) - A URL shortener that uses TypeScript and PostgreSQL 
-- [Pokole Web](https://github.com/alexthemaster/pokole-web) - A Web UI made using Vue for the aforementioned URL shortener
-- [Moonlight](https://github.com/alexthemaster/moonlight) - A (now archived) bot framework for the [Discord.js](https://discord.js.org/) JavaScript bot library 
-- [sharex-server](https://github.com/authenticname/sharex-server) - A basic and simple ShareX image hosting server in Node.js
-- [Lagalista](https://github.com/alexthemaster/lagalista) - A Node.js Spotify to Deezer playlist converter
-- [filelist.js](https://github.com/alexthemaster/filelist.js) - A JavaScript wrapper for the Romanian private torrent tracker FileList
-- [Plex Hide Summary](https://github.com/alexthemaster/plex-hide-summary) - A simple script that hides the synopsis of unwatched movies and episodes on Plex 
+### About Me ℹ️
+- 🌍 I come from Romania.
+- 🗣️ Fluent in three languages: Romanian, Hungarian, and English.
+- 🐾 Qualified veterinary technician (also known as an animal nurse).
+- 🎵 Proud owner of a [music promo channel](https://layers.yt/rap).
+- 💿 Previously managed a small, indie [record label](https://layers.yt/records).
+- 💻 Front end development and design aren't my strongest suits, unfortunately!
 
+### My Projects 🚀
+- [Daunroda](https://github.com/daunroda): A simple, efficient Spotify to YouTube Music Downloader.
+- [Pokole](https://github.com/alexthemaster/pokole): URL shortener using TypeScript and PostgreSQL.
+- [Pokole Web](https://github.com/alexthemaster/pokole-web): Web UI built with Vue for the aforementioned URL shortener.
+- [Moonlight](https://github.com/alexthemaster/moonlight): A now archived bot framework for Discord.js.
+- [sharex-server](https://github.com/authenticname/sharex-server): Basic ShareX image hosting server in Node.js.
+- [Lagalista](https://github.com/alexthemaster/lagalista): Spotify to Deezer playlist converter using Node.js.
+- [filelist.js](https://github.com/alexthemaster/filelist.js): JavaScript wrapper for the Romanian private torrent tracker FileList.
+- [bulk-edit-descriptions](https://github.com/layers/bulk-edit-description): Node.js script for finding and replacing text in YouTube video descriptions.
+- [Plex Hide Summary](https://github.com/alexthemaster/plex-hide-summary): Script to hide unwatched movie and episode synopses on Plex.
 
-## Technologies I use
+### Technologies I Use 🛠️
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/><!--
---><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+--><img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
-## Languages I know
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><!--
---><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><!--
---><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><!--
---><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><!--
---><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-## Some cool stats
+### Some Cool Stats 📊
 <!-- Overall stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=alexthemaster&count_private=true&show_icons=true&theme=tokyonight" height="170px" width="100%">
-<!-- Top langugages -->
+<!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexthemaster&theme=blue-black&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9" height="170px" width="100%">
 <!-- Wakatime -->
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlexTheMaster&layout=compact" height="170px" width="100%">
