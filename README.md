@@ -14,6 +14,7 @@
 
 - [Daunroda](https://github.com/daunroda): A simple, efficient Spotify to YouTube Music Downloader
 - [Pokole](https://github.com/alexthemaster/pokole) and [Pokole Web](https://github.com/alexthemaster/pokole-web): URL shortener built on TypeScript and PostgreSQL, with a Web UI built on Vue
+- [HoveryGPT](https://github.com/alexthemaster/HoveryGPT): Electron app for quickly prompting with ChatGPT
 - [Moonlight](https://github.com/alexthemaster/moonlight): My attempt of reinventing the wheel and making YADJSBF (yet another discord.js bot framework)
 - [Sharex Server](https://github.com/authenticname/sharex-server): Basic ShareX image hosting server in Node.js
 - [Lagalista](https://github.com/alexthemaster/lagalista): Spotify to Deezer playlist converter using Node.js
