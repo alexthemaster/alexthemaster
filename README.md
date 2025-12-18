@@ -16,7 +16,7 @@
 - [Pokole](https://github.com/alexthemaster/pokole) and [Pokole Web](https://github.com/alexthemaster/pokole-web): URL shortener built on TypeScript and PostgreSQL, with a Web UI built on Vue
 - [HoveryGPT](https://github.com/alexthemaster/HoveryGPT): Electron app for quickly prompting with ChatGPT
 - [Moonlight](https://github.com/alexthemaster/moonlight): My attempt of reinventing the wheel and making YADJSBF (yet another discord.js bot framework)
-- [Sharex Server](https://github.com/authenticname/sharex-server): Basic ShareX image hosting server in Node.js
+- [Sharex Server](https://github.com/authenticname/sharex-server): ShareX file hosting server in Node.js
 - [Lagalista](https://github.com/alexthemaster/lagalista): Spotify to Deezer playlist converter using Node.js
 - [filelist.js](https://github.com/alexthemaster/filelist.js): JavaScript wrapper for the Romanian private torrent tracker FileList
 - [FileListSharp](https://github.com/alexthemaster/filelistsharp): .NET wrapper for the Romanian private torrent tracker FileList
