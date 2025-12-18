@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/><!--
+--><img src="https://img.shields.io/badge/caddy-badge?style=for-the-badge&logo=caddy&logoColor=white&color=%23009639"/><!--
 --><img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/><!--
 --><img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
