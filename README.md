@@ -20,6 +20,7 @@
 - [Lagalista](https://github.com/alexthemaster/lagalista): Spotify to Deezer playlist converter using Node.js
 - [filelist.js](https://github.com/alexthemaster/filelist.js): JavaScript wrapper for the Romanian private torrent tracker FileList
 - [FileListSharp](https://github.com/alexthemaster/filelistsharp): .NET wrapper for the Romanian private torrent tracker FileList
+- [Pluxee2CSV](https://github.com/alexthemaster/pluxee2csv): A very simple web page that converts your Pluxee transactions to a table that's downloadable to a CSV file. Pluxee only provides PDF exports so it was a necesarry evil
 - [Bulk Edit Description](https://github.com/layers/bulk-edit-description): Node.js script for finding and replacing text in YouTube video descriptions
 - [Plex Hide Summary](https://github.com/alexthemaster/plex-hide-summary): Script to hide unwatched movie and episode synopses on Plex
 
